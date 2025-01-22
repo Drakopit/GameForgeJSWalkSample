@@ -1,0 +1,3 @@
+[submodule "GameForgeJS"]
+	path = GameForgeJS
+	url = https://github.com/drakopit/GameForgeJS.git
